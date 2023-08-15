@@ -2,7 +2,6 @@
 
 <!-- prettier-ignore-start -->
 - [Hari om Singh](https://github.com/Harixomxsingh)
-- [Surpreet Singh] (https://github.com/SuRpremeSingh13)
 - [Amir](https://github.com/amir1611)
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Andujar Brutus](https://github.com/Brutusa)
